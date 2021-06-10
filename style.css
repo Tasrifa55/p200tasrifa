@@ -1,0 +1,43 @@
+  
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  #after-banner{
+    text-align: center;
+    font-size: 24px;
+  }
+
+
+  .consultant{
+    padding: 20px 20px;
+    background-color: #007D9E;
+    color: #fff;
+    font-size: 25px;
+  }
+
+  .appoinment{
+    padding: 20px 20px;
+    background-color: #0291B7;
+    color: #fff;
+    font-size: 25px;
+  }
+
+  .diagonostic{
+    padding: 20px 20px;
+    background-color: #007D9E;
+    color: #fff;
+    font-size: 25px;
+  }
+
+  .intro{
+      padding-top: 40px;
+      font-size: 18px;;
+  }
+
+  .btn-success{
+      margin-top: 20px;
+      padding: 15px 65px;
+      font-size: 20px;;
+  }
